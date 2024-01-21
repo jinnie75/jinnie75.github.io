@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for Scriptor Jekyll theme
-feature_image: images/about.jpg
+title: About Jinhee
+
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+Hi there! 👋🏼
+My name is Jinhee and it’s pronounced more like [Jinnie], without much accent on the ‘h’ 😊
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+I am a product manager based in Seoul, South Korea. Most of my career has been in e-commerce, which was one of the fastest growing industries in the recent years. 
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+I am an avid collector of stories, eager to take in others’ and to tell my own. Topics I enjoy exploring include the environment, mental health, and diversity & inclusion.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
+In my free time I am constantly busy learning new things - ballet has been my passion for the last few years and before that, learning new languages.
 
-*Thank You for reading!*
+I don’t dream of being the superhero, but the super smart sidekick who’s good at everything, that the heroine is powerless without. It is my dream to be the wings to those with bigger ideas than mine, to help their dreams come true. 💫
+
+{% include image_caption.html imageurl="/images/profile pic.jpeg" title="Jinhee"%}
