@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Film Photography Work
-feature_image: images/photography work.png
 description: a showcase for my photography work
 ---
 
