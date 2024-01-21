@@ -31,14 +31,14 @@ navigation:
   - text: Home
     url: /
   - text: About Me
-    url: /about/
-  - text: Tags
-    url: /tags/
-  - text: Work History
-    url: /work-history/
+    url: /about
   - text: Photography
-    url: /photography/
-
+    url: /photography
+  - text: Work History
+    url: /work-history
+  - text: Tags
+    url: /tags
+  
 # The shortname for your Disqus site to enable comments.
 # disqus: justgoodthemes
 
