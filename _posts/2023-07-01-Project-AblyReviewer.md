@@ -60,8 +60,8 @@ Based on secondary information we gathered on the Coupang Reviewer (e.g. blog po
 4. reviewer sponsorship registration - seller admin page (undisclosed)
 
 ### Product Design
-{% include image_caption.html imageurl="/images/Project AblyReviewer/compare.png" title="coupang v naver shopping" caption="customer reviews for the same product in Coupang vs. Naver Shopping (#1, #2 e-commerce platforms in Korea respectively)"%}
-{% include image_caption.html imageurl="/images/Project AblyReviewer/compare.png" title="coupang v naver shopping" caption="Customer reviews for the same product in Coupang vs. Naver Shopping (#1, #2 e-commerce platforms in Korea respectively)"%}
+{% include image_caption.html imageurl="/images/Project AblyReviewer/pd1.png" title="ablyreviewer(1)"%}
+{% include image_caption.html imageurl="/images/Project AblyReviewer/pd2.png" title="ablyreviewer(2)"%}
 
 ### Additional Challenges
 

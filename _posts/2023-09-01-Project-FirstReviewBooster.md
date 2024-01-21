@@ -16,7 +16,7 @@ We explored the respective needs of customers and sellers on the e-commerce plat
 - ABLY is a Korean fashion & style e-commerce platform. 
 It works on a C2C model where sellers can open their shops on the platform, and individuals can purchase products from multiple shops and write reviews.
 - Our team’s objective was to maximize the value of customer reviews in order to increase overall revenue.
-    - Tapping into sellers’ needs to gain better customer reviews, our team successfully implemented a program where sellers could get detailed customer reviews in exchange for a sponsorship, to gain traction in their product sales ([Project: AblyReviewer](https://www.notion.so/Project-AblyReviewer-d3f6908919cb49b095f384e867b778e3?pvs=21)). Once sellers signed up for the program, we managed a 40% retention rate. However, the number of sellers that would sign up for the program for the first time hit a ceiling.
+    - Tapping into sellers’ needs to gain better customer reviews, our team successfully implemented a program where sellers could get detailed customer reviews in exchange for a sponsorship, to gain traction in their product sales ([Project: AblyReviewer](https://jinnie75.github.io/Project-AblyReviewer)). Once sellers signed up for the program, we managed a 40% retention rate. However, the number of sellers that would sign up for the program for the first time hit a ceiling.
 
 ## Project Overview
 - Duration: July - September 2023

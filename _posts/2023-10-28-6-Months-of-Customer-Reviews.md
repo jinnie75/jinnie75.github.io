@@ -78,7 +78,7 @@ It works on a C2C model where sellers can open their shops on the platform, and 
 ### Results
 
 1. A benchmark model of the Amazon Vine Program **was successfully implemented.** 
-    - For more details on this project, check out [Project: AblyReviewer](https://www.notion.so/Project-AblyReviewer-d3f6908919cb49b095f384e867b778e3?pvs=21)
+    - For more details on this project, check out [Project: AblyReviewer](https://jinnie75.github.io/Project-AblyReviewer)
 2. Social incentives only worked on a small group of highly-engaged users; carefully designed product nudges changed the behavior of the majority, writing more detailed product reviews and **doubling our Quality KPI(=% of detailed reviews) in 2 months.**
 
 ***
@@ -112,7 +112,7 @@ It works on a C2C model where sellers can open their shops on the platform, and 
 
 1. Making the customer review writing prompt more visible and creating a step-by-step user flow **increased the number of reviews written per purchase by 48%**, without any increase in the incentive structure.
 2. Created a customer review boosting product where over 10% of sellers employed to accelerate the speed of gaining customer reviews, with a **retention rate of 50%.**
-    - For more details on this project, check out [Project: First Review Booster](https://www.notion.so/Project-First-Review-Booster-7579e21642d64780836dc89a71451c9c?pvs=21)
+    - For more details on this project, check out [Project: First Review Booster](https://jinnie75.github.io/Project-FirstReviewBooster)
 
 ***
 
