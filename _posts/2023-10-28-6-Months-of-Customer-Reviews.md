@@ -61,8 +61,8 @@ It works on a C2C model where sellers can open their shops on the platform, and 
         - We already had a policy in place where users were rewarded cashback points for every review written (15 cents per review, 30 cents if a photo is included). So we considered making changes in the incentive system and implementing the Amazon Vine Program.
 
 #### Defining How to Measure Progress
-1. Quantity of customer reviews: Increase the % coverage of products with customer reviews.
-2. Quality of customer reviews: Increase the % of reviews that are longer than 00 words and include product images.
+1. Quantity of customer reviews: Increase the % coverage of products with at least 1 customer review.
+2. Quality of customer reviews: Increase the % of image reviews that are longer than 00 words.
 3. Impact of customer reviews on revenue: Increase the purchase conversion rate of users who view customer reviews.
 
 ### Opportunities Explored

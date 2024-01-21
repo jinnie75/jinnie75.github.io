@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Jinhee
+title: A little about me...
 
 ---
 
@@ -15,4 +15,5 @@ In my free time I am constantly busy learning new things - ballet has been my pa
 
 I don’t dream of being the superhero, but the super smart sidekick who’s good at everything, that the heroine is powerless without. It is my dream to be the wings to those with bigger ideas than mine, to help their dreams come true. 💫
 
-{% include image_caption.html imageurl="/images/profile pic.jpeg" title="Jinhee"%}
+
+{% include image_caption.html imageurl="/images/profile_about.jpg" title="Jinhee"%}
